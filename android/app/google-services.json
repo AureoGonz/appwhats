@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836139638110",
+    "firebase_url": "https://nube-99847.firebaseio.com",
+    "project_id": "nube-99847",
+    "storage_bucket": "nube-99847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836139638110:android:b56969b7af25ef379783cf",
+        "android_client_info": {
+          "package_name": "com.example.extra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836139638110-ej3g06ufgmoooteog1supiu4mssmfiab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-qINhi6iQ8hHv3upR6B2GZg-mMV8X-Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836139638110-ej3g06ufgmoooteog1supiu4mssmfiab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
